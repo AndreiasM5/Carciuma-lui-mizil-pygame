@@ -1,0 +1,6 @@
+Right_arrow = move right
+Left_arrow = move left
+F = exit game
+Escape = Back
+1 = select map 1
+2 = select map 2
